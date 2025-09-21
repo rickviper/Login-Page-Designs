@@ -62,7 +62,6 @@ A showcase of simple, modern and responsive login page designs built by me using
 
 Contributions are always welcome!
 
-Contributions are welcome!
 If you’d like to improve the designs, fix issues, or add more layouts:
 
 1. Fork this repo
