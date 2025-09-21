@@ -1,5 +1,5 @@
 
-# ✨Login-Page-Designs using HTML & CSS (Frontend Only)
+# ✨Login-Page-Designs (Frontend Only)
 
 A showcase of simple, modern and responsive login page designs built by me using only HTML & CSS. Clean UI, lightweight, and beginner-friendly code for web developers. Inspirations have been taken from various sources to create these designs.
 
