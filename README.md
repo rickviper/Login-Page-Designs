@@ -1,10 +1,10 @@
 
-# Login-Page-Designs (HTML & CSS)
+# ✨Login-Page-Designs (HTML & CSS)
 
 A showcase of simple, modern and responsive login page designs built by me using only HTML & CSS. Clean UI, lightweight, and beginner-friendly code for web developers. Inspirations have been taken from various sources to create these designs.
 
 
-## Features
+## 🚀Features
 
 - Multiple unique login page layouts
 - Pure **HTML & CSS** (no external frameworks) 
@@ -14,7 +14,7 @@ A showcase of simple, modern and responsive login page designs built by me using
 - Easy-to-read and beginner-friendly code 
 
 
-## Project Structure
+## 📁Project Structure
 ```
 📁 login-page-designs
 ┣ 📂 design-1
@@ -33,7 +33,7 @@ A showcase of simple, modern and responsive login page designs built by me using
 ┃ ┗ style.css
 ┗ README.md
 ```
-## Getting started
+## 💻Getting started
 
 1. Clone this repository:
    ```bash
@@ -44,7 +44,7 @@ A showcase of simple, modern and responsive login page designs built by me using
 3. Explore the designs and customize the CSS to your liking.
 
 
-## Preview
+## 👁️Preview
 
 - Design 1:
 ![image alt](https://github.com/rickviper/Login-Page-Designs/blob/main/Preview/Design1.png?raw=true)
@@ -58,7 +58,7 @@ A showcase of simple, modern and responsive login page designs built by me using
 - Design 4 (animated):
 ![image alt](https://github.com/rickviper/Login-Page-Designs/blob/main/Preview/Design4(animated).png?raw=true)
 
-## Contributing
+## 👍Contributing
 
 Contributions are always welcome!
 
@@ -73,7 +73,7 @@ If you’d like to improve the designs, fix issues, or add more layouts:
 3. Submit a pull request
 
 ---
-## ⭐ If you like this project, don’t forget to star the repo!
+ <h1>⭐ If you like this project, don’t forget to star the repo!</h1>
 
 
 
