@@ -1,0 +1,137 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "poppins", sans-serif;
+}
+
+body {
+  background: url(./assets/background2.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.logo-text {
+  position: fixed;
+  padding: 5px 0 0 15px;
+}
+
+.logo-text a{
+  font-size: 20px;
+  font-weight: 600;
+  color: #f7effe;
+  text-decoration: none;
+}
+
+.logo-text a:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.login-form {
+  background-color: transparent;
+  width: 420px;
+  color: #f7effe;
+  border-radius: 10px;
+  padding: 30px 40px;
+  border: 2px solid #e1e1e133;
+  backdrop-filter: blur(15px);
+  box-shadow: 0 0 10px #0000001a;
+}
+.login-form h1 {
+  text-align: center;
+  font-size: 36px;
+}
+
+.login-form .input-box {
+  width: 100%;
+  height: 50px;
+  margin: 30px 0;
+  position: relative;
+}
+
+.input-box input {
+  width: 100%;
+  height: 100%;
+  border: none;
+  outline: none;
+  border: 2px solid #e1e1e133;
+  border-radius: 50px;
+  background: transparent;
+  padding: 20px 45px 20px 20px;
+  font-size: 16px;
+  color: #f7effe;
+}
+
+.input-box input::placeholder {
+  color: #f7effe;
+}
+
+.login-form .input-box i {
+  position: absolute;
+  right: 10px;
+  top: 30%;
+  transform: translate(-50%);
+  font-size: 20px;
+}
+
+.login-form .rememberme-forgot {
+  display: flex;
+  justify-content: space-between;
+  font-size: 15px;
+  accent-color: #f7effe;
+  margin: -15px 0 15px;
+}
+
+.input-box input:focus {
+  transform: scale(1.02);
+}
+
+.rememberme-forgot a {
+  text-decoration: none;
+  color: #f7effe;
+}
+
+.rememberme-forgot a:hover {
+  text-decoration: underline;
+}
+
+button {
+  width: 100%;
+  height: 40px;
+  border-radius: 50px;
+  border: 0;
+  outline: 0;
+  box-shadow: 0 0 10px #0000001a;
+  cursor: pointer;
+  font-size: 16px;
+  color: #333;
+  font-weight: 600;
+  transition: all 0.2s ease-out;
+}
+
+button:active {
+  transform: scale(0.95);
+}
+
+.login-form .register {
+  text-align: center;
+  margin: 20px 0 15px;
+}
+
+.register p a {
+  text-decoration: none;
+  color: #f7effe;
+  font-weight: 600;
+}
+
+.register p a:hover {
+  text-decoration: underline;
+}
