@@ -49,8 +49,7 @@
 
 .main {
   display: flex;
-  width: 100%;
-  max-width: 56rem;
+  width: 56rem;
   height: 38rem;
   border-radius: 20px;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
@@ -64,7 +63,6 @@
   align-items: center;
   border-radius: 20px 0 0 20px;
   position: relative;
-  flex-direction: row;
 }
 
 .login-form h1 {
@@ -176,3 +174,4 @@ button:active {
   color: gray;
   margin-left: 6px;
 }
+
