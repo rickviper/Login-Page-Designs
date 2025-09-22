@@ -53,6 +53,7 @@ A showcase of simple, modern and responsive login page designs built by me using
 ![image alt](https://github.com/rickviper/Login-Page-Designs/blob/main/Preview/Design2.png?raw=true)
 
 - Design 3 (animated):
+  Shooting star animated background from: <a href="https://codepen.io/alphardex/pen/RwrVoeL">alphardex</a>
 ![image alt](https://github.com/rickviper/Login-Page-Designs/blob/main/Preview/Design3(animated).png?raw=true)
 
 - Design 4 (animated):
